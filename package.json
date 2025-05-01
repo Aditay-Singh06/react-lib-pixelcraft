@@ -1,5 +1,5 @@
 {
-  "name": "@digipodium/pixelcraft2",
+  "name": "@digipodium/pixelcraft",
   "version": "0.0.1",
   "description": "A simple template for a custom React component library by Digipodium",
   "scripts": {
@@ -7,7 +7,7 @@
     "build": "rollup -c --bundleConfigAsCjs"
   },
   "keywords": ["react", "component", "frontend", "Digipodium", "Digipod"],
-  "author": "Mohammad Mubassir",
+  "author": "Aditya Singh",
   "license": "ISC",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^25.0.7",
