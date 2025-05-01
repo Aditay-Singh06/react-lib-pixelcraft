@@ -6,7 +6,7 @@
     "rollup": "rollup -c",
     "build": "rollup -c --bundleConfigAsCjs"
   },
-  "keywords": ["react", "component", "frontend", "Digipodium", "Digipod"],
+  "keywords": ["react", "component", "frontend", "Digipodium", "Digipod", "Image,", "Image Processing", "Image Manipulation"],
   "author": "Aditya Singh",
   "license": "ISC",
   "devDependencies": {
