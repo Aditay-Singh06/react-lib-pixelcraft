@@ -1,13 +1,13 @@
 {
   "name": "pixel-craft",
-  "version": "0.0.1",
+  "version": "0.0.9",
   "description": "A simple template for a custom React component library by Digipodium",
   "scripts": {
     "rollup": "rollup -c",
     "build": "rollup -c --bundleConfigAsCjs"
   },
   "keywords": ["react", "component", "frontend", "Digipodium", "Digipod", "Image,", "Image Processing", "Image Manipulation"],
-  "author": "Aditya Singh",
+  "author": "Aditya Singh <aadiadityasingh2003@gmail.com>; Anishk Jaiswal",
   "license": "ISC",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^25.0.7",
@@ -21,8 +21,8 @@
     "typescript": "^5.2.2"
   },
   "peerDependencies": {
-    "react": "^18.2.0",
-    "react-dom": "18.2.0"
+    "react": "^19.0.0",
+    "react-dom": "19.0.0"
   },
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
